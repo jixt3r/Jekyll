@@ -3,7 +3,7 @@ permalink: /about/
 layout: none
 ---
 
-<center> #### Onepluzo </center></br>
+<center> #### Onepluzo </center> </br>
 
 <center> Onepluzo </center>
 
