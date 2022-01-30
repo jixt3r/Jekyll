@@ -10,4 +10,4 @@ layout: none
 <h1>Real ou feiki?</h1>
 
 ## Androido
-# é pô
+# é pôj
