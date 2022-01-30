@@ -7,7 +7,7 @@ layout: none
     </head>
     <body>
 
-# Onepluz
+# Onepluzo
 
 <h1>Real ou feiki?</h1>
 
