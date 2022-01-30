@@ -4,7 +4,7 @@ layout: none
 ---
 
 {% comment %}
-Da pra usar HTML, Liquid
+Da pra usar HTML, Liquid e Markdown
 Pra usar Markdown tem que ter a extensão md no arquivo da página
 {% endcomment %}
 
