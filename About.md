@@ -2,7 +2,10 @@
 permalink: /about/
 layout: none
 ---
-# Onepluzo
+
+<center> #### Onepluzo </center></br>
+
+<center> Onepluzo </center>
 
 <h1>Real ou feiki?</h1>
 
