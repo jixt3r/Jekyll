@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-layoujt: about
+layout: none
 ---
 <!DOCTYPE html>
 <html>
