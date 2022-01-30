@@ -12,3 +12,5 @@ layout: none
 
 ## Androido
 # é pô
+
+{% include footer.html %}
