@@ -10,4 +10,4 @@ layout: page
 
 {% include footer.html %}
 
-@import "{{ site.sass.default }}";
+@import "{{ site._sass.default }}";
