@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 permalink: /jekyll_info/
 title: Informações sobre Jekyll
 ---
