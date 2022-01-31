@@ -9,3 +9,5 @@ layout: page
 <p>Loren ipsum</p>
 
 {% include footer.html %}
+
+@import "{{ site.sass.default }}";
