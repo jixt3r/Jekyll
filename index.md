@@ -2,8 +2,6 @@
 layout: page
 ---
 
-@import "{{ site.sass.default }}";
-
 {% include header.html %}
 
 <h1>Página inicial</h1>
