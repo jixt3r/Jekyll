@@ -1,4 +1,4 @@
-# Aprendendo Jekyll
+# Aprendendo Jekyll 
 
 Informações:
 
@@ -9,3 +9,5 @@ Informações:
 Sobre as pastas:
 
 _drafts: É para rascunhos.
+
+Tema: Minimal
