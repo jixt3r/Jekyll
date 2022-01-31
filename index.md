@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: page
 ---
 
 {% include header.html %}
