@@ -1,6 +1,6 @@
 ---
-permalink: /jekyll_info/
 layout: none
+permalink: /jekyll_info/
 title: Informações sobre Jekyll
 ---
 
