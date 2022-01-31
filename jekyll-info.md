@@ -1,11 +1,12 @@
 ---
-permalink: /about/
+permalink: /jekyll_info/
 layout: none
+title: Informações sobre Jekyll
 ---
 
 {% include header.html %}
 
-<h1>Esta é a página Sobre</h1>
+<h1>Informações sobre</h1>
 
 Estou aprendendo a usar Jekyll.
 
