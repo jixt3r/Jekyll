@@ -5,9 +5,8 @@ layout: none
 
 {% include header.html %}
 
-<h1>Real ou feiki?</h1>
+<h1>Informações sobre</h1>
 
-## Androido
-# é pô
+Estou aprendendo a usar Jekyll.
 
 {% include footer.html %}
