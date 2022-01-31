@@ -1,6 +1,4 @@
-# Aprendendo Jekyll 
-
-## Informações:
+# Informações sobre sites Jekyll
 
 * Pra usar Markdown tem que ter a extensão md no arquivo.
 * Um arquivo include pode chamar outro dentro de si.
@@ -9,6 +7,10 @@
 ## Sobre as pastas:
 
 _drafts: É para rascunhos.
+
+## Stylesheet
+
+* Existem dois tipos de Stylesheet: "Main" e "Partial". As "Main" ficam em "assets/css" e as "Partial" ficam em "_sass" e são puxadas pelas "Main" com @import
 
 ## Puxar dados
 **Exemplo**: {{ palavra.outra }}
