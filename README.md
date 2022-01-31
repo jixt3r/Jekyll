@@ -13,7 +13,7 @@ _drafts: É para rascunhos.
 ## Puxar dados
 **Exemplo**: {{ palavra.outra }}
 
-* "**page**" é a página atual, com ele vc pega informações do front matter.
-* "**site**" é o root do repositório, com ele vc acessa pastas e pega informações dentro de arquivos.
+* **page** é a página atual, com ele vc pega informações do front matter.
+* **site** é o root do repositório, com ele vc acessa pastas e pega informações dentro de arquivos.
 
 **Tema**: Minimal.
