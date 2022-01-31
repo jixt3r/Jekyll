@@ -1,5 +1,5 @@
 <div>
-<h5>Contato:</h5>
+<h5>Contatol:</h5>
 
 ## Twitter:
 
