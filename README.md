@@ -10,4 +10,4 @@ Sobre as pastas:
 
 _drafts: É para rascunhos.
 
-Tema: Minimal
+**Tema**: Minimal.
