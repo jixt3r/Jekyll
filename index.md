@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: none
 ---
 
 {% include header.html %}
 
-<h1>Página inicial</h1>
+# Página inicial
 
 <p>Loren ipsum</p>
 
