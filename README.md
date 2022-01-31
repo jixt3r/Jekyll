@@ -10,12 +10,12 @@ _drafts: É para rascunhos.
 
 ## Stylesheet
 
-* Existem dois tipos de Stylesheet: "Main" e "Partial". As "Main" ficam em "assets/css" e as "Partial" ficam em "_sass" e são puxadas pelas "Main" com @import
+* Existem dois tipos de Stylesheet: _**Main**_ e _**Partial**_. As _**Main**_ ficam em "assets/css" e as _**Partial**_ ficam em "_sass" e são puxadas pelas _**Main**_ com: ```@import "{{ site.sass.default }}";```
 
 ## Puxar dados
-**Exemplo**: {{ palavra.outra }}
+**Exemplo**: ```{{ palavra.outra }}```
 
-* **page** é a página atual, com ele vc pega informações do front matter.
-* **site** é o root do repositório, com ele vc acessa pastas e pega informações dentro de arquivos.
+* _**page**_ é a página atual, com ele vc pega informações do front matter.
+* _**site**_ é o root do repositório, com ele vc acessa pastas e pega informações dentro de arquivos.
 
 **Tema**: Minimal.
