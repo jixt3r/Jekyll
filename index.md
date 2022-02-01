@@ -5,7 +5,7 @@ layout: default
 {% include header.html %}
 
 {% for page in site.data.pages %}
-  <a href="/Meu-Site/{{ page }}/"> {{ page }} </a>
+  <a href="/Meu-Site/{{ page | downcase | replace: " ", "-" }}/"> {{ page }} </a>
 {% endfor %}
 
 {{ site.data.Ju }}
