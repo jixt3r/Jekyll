@@ -13,5 +13,6 @@ title: Página Inicial
   {% for item in site.data.Ju %}
     $ {{ item }}
   {% endfor %}
+  DDD {{ site.data.Ju }}
 </div>
 </body>
