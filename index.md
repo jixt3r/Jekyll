@@ -10,9 +10,5 @@ title: Página Inicial
   {% for page in site.data.pages %}
     <a href="/{{ site.repository-name }}/{{ page | downcase | replace: " ", "_" }}/" ><button>{{ page }}</button></a>
   {% endfor %}
-  {% for item in site.data.Ju %}
-    $ {{ item }}
-  {% endfor %}
-  DDD {{ site.data }}
 </div>
 </body>
