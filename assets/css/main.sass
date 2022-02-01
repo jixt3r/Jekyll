@@ -2,15 +2,24 @@
 
 ---
 
+body
+  display: flex
+  justify-content: center
+  flex-wrap: wrap
+
 .centralizado
   position: absolute
   top: 100px
-  left: 0
-  right: 0
   margin: auto
-  width: min-content
+  padding: 6px
+  max-width: 400px
+  border: inset gray
+  border-radius: 10px
   background-color: purple
 
-a
-  margin-left: 10px
-  margin-right: 10px
+button
+  display: inline-block
+  max-width: min-content
+  background-color: grey
+  border: inset black
+  border-radius: 10px
