@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Página inicial
 ---
 
 {% include header.html %}
