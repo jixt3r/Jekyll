@@ -9,5 +9,3 @@ title: Informações sobre Jekyll
 <h1>Informações sobre</h1>
 
 Estou aprendendo a usar Jekyll.
-
-{% include footer.html %}
