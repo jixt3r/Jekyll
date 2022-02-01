@@ -4,8 +4,5 @@ layout: default
 
 {% include header.html %}
 
-# Página inicial
-
-<p>Loren ipsum</p>
-
+<a href="/{{ page }}">{{ page }}</a>
 {% include footer.html %}
