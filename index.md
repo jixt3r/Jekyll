@@ -4,5 +4,5 @@ layout: default
 
 {% include header.html %}
 
-<a href="/{{ page }}">{{ page.url }}</a>
+<a href="/">g {{ page.url }} g</a>
 {% include footer.html %}
