@@ -4,7 +4,8 @@ layout: default
 
 {% include header.html %}
 
-Listar itens em /page
-<a href="/pages/iten">∆ {{ site.pages }} ∆</a>
+<a href="/"></a>
+$ {{ site.pages. }}
 
+& {{ site.pages.* }}
 {% include footer.html %}
