@@ -8,4 +8,6 @@ layout: default
   <a href="/Meu-Site/{{ page }}/"> {{ page }} </a>
 {% endfor %}
 
+{{ site.data.Ju }}
+
 {% include footer.html %}
