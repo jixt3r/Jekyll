@@ -1,5 +1,6 @@
 ---
 layout: none
+title: Página Inicial
 ---
 
 {% include head.html %}
