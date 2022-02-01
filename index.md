@@ -4,7 +4,6 @@ title: Página inicial
 ---
 
 {% include header.html %}
-{% include head.html %}
 
 <div class="centralizado">
   {% for page in site.data.pages %}
