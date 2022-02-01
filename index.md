@@ -4,5 +4,7 @@ layout: default
 
 {% include header.html %}
 
-<a href="/">g {{ page }} g</a>
+Listar itens em /page
+<a href="/pages/iten">iten</a>
+
 {% include footer.html %}
