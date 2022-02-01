@@ -5,5 +5,4 @@ title: Arts CSS
 ---
 
 {% include header.html %}
-<h1>Informações sobre</h1>
-Estou aprendendo a usar Jekyll.
+<h1>Arts CSS</h1>
