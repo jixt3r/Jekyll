@@ -1,3 +1,8 @@
+---
+layout: none
+title: relogio
+style: relogio
+---
 <!DOCTYPE html>
 <html>
     {% include head.html %}
