@@ -1,7 +1,7 @@
 ---
 layout: none
 title: Página Inicial
-style: mai
+style: main
 ---
 
 {% include head.html %}
