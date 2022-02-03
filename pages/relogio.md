@@ -24,6 +24,6 @@ style: relogio
                 </div>
             </div>
         </div>
-        <script src="script.js"></script>
+        <script src="{{ '/assets/css/script.js' | relative_url }}"></script>
     </body>
 </html>
