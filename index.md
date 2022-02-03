@@ -11,7 +11,7 @@ style: main
   {% for page in site.data.pages %}
     <a href="/{{ site.repository-name }}/{{ page | downcase | replace: " ", "_" }}/" ><button>{{ page }}</button></a>
   {% endfor %}
-  {{ '/assets/css/' | relative_url | append: {{ page.style }}.css }}
+  {{ '/assets/css/' | relative_url | append: {{ page.title }}.css }}
 </head>
 </div>
 </body>
