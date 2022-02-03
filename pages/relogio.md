@@ -1,6 +1,6 @@
 ---
 layout: none
-title: relogio
+title: Relogio
 style: relogio
 ---
 <!DOCTYPE html>
