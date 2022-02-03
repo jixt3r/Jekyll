@@ -4,7 +4,7 @@ permalink: /relogio/
 title: Relogio
 style: relogio
 ---
-<!DOCTYPE html>
+
 <html>
     {% include head.html %}
     <body>
