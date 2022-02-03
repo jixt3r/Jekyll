@@ -1,5 +1,6 @@
 ---
 layout: none
+permalink: /relogio/
 title: Relogio
 style: relogio
 ---
