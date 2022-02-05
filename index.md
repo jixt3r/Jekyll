@@ -12,5 +12,4 @@ style: main
       <a href="{{ / | relative_url }}{{ page | downcase | replace: " ", "_" }}/"><button>{{ page }}</button></a>
     {% endfor %}
   </div>
-$ {{ site.pages }}
 </body>
