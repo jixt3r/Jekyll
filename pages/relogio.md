@@ -2,7 +2,7 @@
 layout: none
 permalink: /relogio/
 title: Relogio
-name: Relogio
+alias: Relogio
 style: relogio
 ---
 
