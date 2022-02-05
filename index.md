@@ -9,7 +9,7 @@ style: main
   <h1>Páginas:</h1>
   <div class="centralizado">
 
-    {% assign all_pages = site.pages | map: "name" %}
+    {% assign all_pages = site.pages | map: "alias" %}
     {% for page in all_pages %}
       {% if page.size > 1 %}
         <a href="{{ '/' | relative_url }}{{ page | downcase | replace: " ", "_" }}/"><button>{{ page }}</button></a>
