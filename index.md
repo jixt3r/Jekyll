@@ -8,6 +8,7 @@ style: main
 <body>
   <h1>Páginas:</h1>
   <div class="centralizado">
+
     <!--{% for page in site.data.pages %}
       <a href="{{ '/' | relative_url }}{{ page | downcase | replace: " ", "_" }}/"><button>{{ page }}</button></a>
     {% endfor %}-->
@@ -16,8 +17,12 @@ style: main
     {% for page in all_pages %}
       <a href="{{ '/' | relative_url }}{{ page | downcase | replace: " ", "_" }}/"><button>{{ page }}</button></a>
     {% endfor %}
+
     {% for page in all_pages %}
-      - {{ page }}
+      {% if page.size > 1 %}
+        - {{ page }}
+      {% endif %}
     {% endfor %}
+
   </div>
 </body>
