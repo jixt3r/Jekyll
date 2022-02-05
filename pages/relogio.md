@@ -1,5 +1,6 @@
 ---
 layout: none
+hoje: resenha
 permalink: /relogio/
 title: Relogio
 style: relogio
